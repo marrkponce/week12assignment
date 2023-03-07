@@ -1,0 +1,42 @@
+html{
+    background: #f9eccc;
+    border: 1px solid orangered;
+    
+}
+
+.title{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.form{
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+
+}
+
+#edit-box{
+    display: none;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+table{
+    margin: auto;
+}
+
+body{
+    background-image: url(planta-3.png);
+    
+}
+
+#tasks{
+    color: whitesmoke;
+}
